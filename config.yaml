@@ -1,0 +1,7 @@
+path: C:\Users\thele\PycharmProjects\pythonProject1\data\mtg card dataset # dataset root dir
+train: images\blossoming_tortoise # train images (relative to 'path')
+val: images\blossoming_tortoise # val images (relative to 'path')
+
+# CLasses
+names:
+  0: blossoming_tortoise
